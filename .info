@@ -1,0 +1,33 @@
+//name of the expansion
+Name=DRUMS
+
+// simple description. make sure it does not exceed 1024 chars
+Description=Just Drums Sequences
+
+// artist name
+Artist=Custom
+
+//minimum avenger version for the expansion
+RequiredVersion=2.0.0
+
+// Unique identifier for the expansion
+UID=1846722250
+
+// fixed expansion root name
+ROOT=DRUMS.avxp
+
+ExpansionBitmap=/images/main.png
+
+
+// content folder list
+Shapes=/shapes
+WaveTables=/wavetables
+Presets=/presets
+Samples=/samples
+DrumKits=/drumkits
+Sequences=/drumsq
+Resampler=/resampler
+Granular=/granular
+MultiLoops=/multiloops
+Preview=/preview
+DrumLoops=/drumloops
