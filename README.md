@@ -5,17 +5,17 @@ It is also perfect for using an instance of Avenger for drums only, minimizing t
 
 ## NOTICE 
 All created patches here rely on the content of the original expansioans.  
-In orde to be able to use them ***you need to own the respective expansion***.
+In order to be able to use them, ***you need to own the respective expansion***.
 
 
 ## Installation  
-clonse tehg repository in your Avenger Expansions folder.  
+clone the repository in your Avenger Expansions folder.  
 -or-  
 Download the released ZIP file [here](https://github.com/daslicht/DRUMS.avxp/releases/tag/expansion_without_previews) and extract it to your Avenger Expansions folder.  
 
 Just delete the Folders you dont need (the expansions you dont have)
 
-After that generate the previews and you are done.
+After that generate the previews and you are done.  
 
 
 
