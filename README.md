@@ -4,7 +4,8 @@ It is also perfect for using an instance of Avenger for drums only, minimizing t
 
 
 ## NOTICE 
-All created patches here rely on teh content of the original expansioans. In orde to be able to use them you need to own the respective expansion.
+All created patches here rely on the content of the original expansioans.  
+In orde to be able to use them ***you need to own the respective expansion***.
 
 
 ## Installation  
