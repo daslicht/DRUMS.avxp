@@ -1,5 +1,5 @@
 # DRUMS.ACXP  
-This VPS Avenger Expansion is designed for quick previews of drum sequences.
+This VPS Avenger Expansion is designed for quick previews of drum sequences.  
 It is also perfect for using an instance of Avenger for drums only, minimizing the CPU load in contrast to complex sequence patches. 
 
 
